@@ -1,3 +1,3 @@
 # gitpractice
 
-test relative link [link](.idea)
+test relative link [link](/.idea)
